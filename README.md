@@ -1,9 +1,10 @@
 <!-- HEADER TITLE -->
-<h1 align="center" style="font-family: monospace;">Hey there, wanderer 👁️ Welcome to my realm</h1>
-
+<p align="center">
+  <img width="1500" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=60&lines=$+whoami" alt="Typing SVG" />
+</p>
 <!-- ANIME GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Anime Character">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBxdzZiN3dlcWYzbHhtOWg2ZGpzOXZjc2R2aW85dHhuMjJ3ZWhnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Z5kstwARnPna/giphy.gif" width="760" alt="Anime Character">
 </p>
 
 <!-- TYPING EFFECT -->
