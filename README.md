@@ -46,5 +46,4 @@
 <hr style="border: none; height: 1px; background-color: #6C7086;">
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saberr26&style=for-the-badge&color=89DCEB" alt="profile views" />
-  <img src="https://img.shields.io/badge/Night%20is%20my%20domain-🦉-1E1E2E?style=for-the-badge&logoColor=FAB387">
-</p>
+
