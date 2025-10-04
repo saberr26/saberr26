@@ -32,20 +32,12 @@
   <img src="https://img.shields.io/badge/Git-1E1E2E?style=for-the-badge&logo=git&logoColor=F38BA8"/>
   <img src="https://img.shields.io/badge/VS%20Code-1E1E2E?style=for-the-badge&logo=visual-studio-code&logoColor=89DCEB"/>
   <img src="https://img.shields.io/badge/Night Coder-1E1E2E?style=for-the-badge&logo=gnubash&logoColor=DDB6F2"/>
-  <img src="https://img.shields.io/badge/Anime⚡Addict-1E1E2E?style=for-the-badge&logo=crunchyroll&logoColor=F5C2E7"/>
 </p>
   
 </p>
 
-<!-- QUOTE -->
-<blockquote align="center">
-  <em>"The ones who stare into the abyss don’t fear the void. They become it."</em>
-  <br/>
-  <strong>— Unknown dev at 3:47 AM</strong>
-</blockquote>
-
 <!-- ACTIVITY GRAPH -->
-<h3 align="center">🔥 Contribution Activity</h3>
+<h3 align="center"> Contribution Activity</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saberr26&theme=github-compact&hide_border=true" />
 </p>
