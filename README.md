@@ -10,10 +10,6 @@
 </p>
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 <!-- TYPING EFFECT -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FFE0&center=true&vCenter=true&width=700&lines=Night+owl+%F0%9F%8C%9D+who+codes+in+silence;Arch+user+(btw) %7C+Game+Modder;" alt="Typing SVG">
-</p>
-
 <hr style="border: none; height: 1px; background-color: #444;">
 
 <!-- PROFILE CARDS -->
